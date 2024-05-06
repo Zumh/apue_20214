@@ -23,6 +23,8 @@ What does the "(1)" in "ls(1)" mean?
 After class:
 ------------
 Important take-away:
+- ssh codebatz@apue 
+- 
 - always use the right compiler flags ('-Wall -Wextra -Werror')
 - despite being "unix-like", Linux and NetBSD are
   different OS with different philosophies and licenses
